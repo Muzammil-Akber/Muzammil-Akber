@@ -5,7 +5,7 @@
 <img align="right" alt="cooding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzammil-akber&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-akber" /> </p>
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on React Projects<br>🤝 I’m looking for help with Node Js<br>🌱 I’m currently learning Mern Stack<br>🤝 Make Videos about tech and Computer science on Youtube<br>💬 Ask me about HTML, CSS, Tailwind, JavaScript, React, Git<br>⚡ Fun fact!  Take Every Thing on lighter-note Except " Coding" <br>📫 How to reach me: muzammilraza365@gmail.com
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on React Projects<br>🤝 I’m looking for help with Node Js<br>🌱 I’m currently learning Mern Stack<br>🤝 Make Videos about tech and Computer science on Youtube<br>💬 Ask me about HTML, CSS, Tailwind, JavaScript, React, Git<br>⚡ Fun fact!  Take Every Thing on lighter-note Except " Coding" <br>📫 How to reach me: `muzammilraza365@gmail.com`
 
 
 ## <h3 align="left"> 🌐 Socials:<br/></h3>
